@@ -73,8 +73,6 @@ export default function Intro() {
 
       <p
         className="mb-10 mt-4 px-4 font-medium !leading-[1.5] sm:text-xl"
-        initial={{ opacity: 0, y: 100 }}
-        animate={{ opacity: 1, y: 0 }}
       >
 
         Full-Stack Developer (6+ yrs) | React, Next.js, TypeScript, Node.js, Python, FastAPI, PostgreSQL | AI, RAG, LLM APIs | Building production-grade SaaS products
