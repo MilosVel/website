@@ -38,7 +38,7 @@ export default function About() {
       </p>
 
       <p className="mb-3">
-        Throughout my career I've contributed to projects across various domains:
+        Throughout my career, I've contributed to projects across various domains:
         fintech, SaaS platforms, mobile development, and data-driven business applications — always translating complex requirements into
         clean, maintainable solutions.
         My portfolio is showcased in {' '}
@@ -53,7 +53,7 @@ export default function About() {
       </p>
 
       <p className="mb-3">Tech I work with: JavaScript, TypeScript, React, Next.js, Node.js, Express/Fastify,
-        Python, FastAPI, PostgreSQL, MySQL, MongoDB, Docker and more.</p>
+        Python, FastAPI, PostgreSQL, MySQL, MongoDB, Docker, and more.</p>
 
       <p className="mb-3"> I care about clean architecture, performance, and building products that actually solve problems.</p>
 

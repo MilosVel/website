@@ -178,18 +178,19 @@ export const mySeniorLevelProjects = [
 export const skillsData = [
   "JavaScript",
   "TypeScript",
+  "Python",
   "React",
   "Next.js",
-  "HTML",
-  "CSS",
-  "Tailwind",
-  "Shadcn",
   "React Native",
+  "Tailwind",
+  "CSS",
+  "HTML",
+  "shadcn/ui",
+  "FastAPI",
+  "Node.js",
   "Express",
   "Fastify",
   "Nest",
-  "Python",
-  "FastAPI",
   "PostgreSQL",
   "MySQL",
   "MongoDB",
@@ -197,4 +198,7 @@ export const skillsData = [
   "Pixi.js",
   "Git",
   "Docker",
+  "Vercel,",
+  "AI & LLMs"
+
 ] as const;
