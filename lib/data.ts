@@ -179,6 +179,7 @@ export const skillsData = [
   "JavaScript",
   "TypeScript",
   "Python",
+  "AI & LLMs",
   "React",
   "Next.js",
   "React Native",
@@ -199,6 +200,6 @@ export const skillsData = [
   "Git",
   "Docker",
   "Vercel,",
-  "AI & LLMs"
+
 
 ] as const;
