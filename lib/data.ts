@@ -199,7 +199,7 @@ export const skillsData = [
   "Pixi.js",
   "Git",
   "Docker",
-  "Vercel,",
+  "Vercel",
 
 
 ] as const;
