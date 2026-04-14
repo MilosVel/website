@@ -51,7 +51,7 @@ export default function Intro() {
             quality={100}
             priority={true}
             // className="h-48 w-48 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
-            className="h-48 w-48 rounded-full object-cover object-[center_30%] border-[0.35rem] border-white shadow-xl"
+            className="h-52 w-52 rounded-full object-cover object-[center_35%] border-[0.35rem] border-white shadow-xl"
           />
 
           <motion.span
