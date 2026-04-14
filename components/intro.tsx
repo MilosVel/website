@@ -46,11 +46,12 @@ export default function Intro() {
           <Image
             src={profilePicture}
             alt="Miloš Veličković portrait"
-            width="500"
-            height="500"
-            quality="100"
+            width={300}
+            height={300}
+            quality={100}
             priority={true}
-            className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+            // className="h-48 w-48 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+            className="h-48 w-48 rounded-full object-cover object-[center_30%] border-[0.35rem] border-white shadow-xl"
           />
 
           <motion.span
